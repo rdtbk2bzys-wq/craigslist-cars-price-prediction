@@ -18,7 +18,7 @@ pd.set_option("display.max_rows", None)
 pd.set_option("display.width", 1000)
 
 # Загружаем датасет
-df = pd.read_csv(r"C:\Users\User\Desktop\vehicles.csv")
+df = pd.read_csv("vehicles.csv")#Please read the README.md file before running the code.
 
 print(df.sample(10))
 print(df.info())
