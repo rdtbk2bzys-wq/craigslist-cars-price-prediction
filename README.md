@@ -8,7 +8,7 @@ The main goal was to build a model that can predict car prices as accurately as 
 
 ## Dataset
 
-The dataset contains information about used cars listed on Craigslist.
+The dataset contains information about used cars listed on Craigslist https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 
 Some of the main columns are:
 
